@@ -20,6 +20,4 @@ Please follow the steps below to complete the task:
 2. Use es6 methods.
 3. take care of the application style.
 
--
-
 Please feel free to reach out if you have any questions or need further assistance.
