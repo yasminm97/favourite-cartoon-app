@@ -1,4 +1,4 @@
-# Favourite Cartoon App
+# Favourite Cartoon Task
 
 Dear students,
 
