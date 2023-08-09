@@ -33,8 +33,7 @@ h1{
   width: 10vw;
   margin: 10px;
 }
-.footer fLink{
-}
+
 .navbar{
   background-color:  rgba(1, 31, 58, 0.696);
   height: 50px;
@@ -67,16 +66,7 @@ h1{
   font-weight: bolder;
   color: rgb(0, 234, 255);
 }
-.cartoons ul{
-  list-style-type: none;
-  text-align: center;
-}
-.cartoons ul li{
-  margin: 10px;
-}
-.card{
-  color: red;
-}
+
 .search {
   display: flex;
   flex-direction: column;
